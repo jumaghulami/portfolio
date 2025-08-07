@@ -25,7 +25,7 @@ function HeroPage() {
           <h2 className="text-4xl font-bold text-transparent whitespace-pre-line md:text-5xl bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text dark:from-purple-400 dark:to-pink-400">
             {t("heading")}
           </h2>
-          <p className="max-w-md mx-auto text-lg text-gray-600 dark:text-gray-400">
+          <p className="max-w-md mx-auto text-lg text-red-600 dark:text-gray-400">
             {t("description")}
           </p>
         </div>
