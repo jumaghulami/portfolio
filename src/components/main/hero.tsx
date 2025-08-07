@@ -14,7 +14,7 @@ function HeroPage() {
             src="/profile.jpg"
             alt="Your Name"
             fill
-            className="object-cover transition-all duration-500 border-4 border-purple-500 rounded-full shadow-xl shadow-purple-500/30 dark:shadow-purple-600/20 group-hover:scale-105"
+            className="object-cover transition-all duration-500 border-4 border-red-500 rounded-full shadow-xl shadow-purple-500/30 dark:shadow-purple-600/20 group-hover:scale-105"
             priority
           />
           <div className="absolute inset-0 transition-opacity duration-300 bg-purple-500 rounded-full opacity-0 group-hover:opacity-10 blur-md -z-10" />
